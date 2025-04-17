@@ -1,0 +1,24 @@
+{
+  "name": "discord-doc-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour acc\u00e9der rapidement aux documentations HTML, CSS, JS, PHP, Bootstrap, Angular et Symfony",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "documentation",
+    "bootstrap",
+    "js",
+    "php",
+    "html"
+  ],
+  "author": "TonNom",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
